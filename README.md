@@ -1,4 +1,4 @@
-Feature State
+Features State
 ========
 
 Display a light version of features state table.
